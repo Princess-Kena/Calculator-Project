@@ -1,0 +1,17 @@
+.big-row {
+	background-color: grey;
+
+}
+ .big-row h1{
+ 	color: white;
+ 	text-align: right;
+ }
+ .second{
+ 	border: 1px solid silver;
+ 	text-align: center;
+ 	background-color: lightgrey;
+ }
+ .last{
+ 	text-align: center;
+ 	background-color: orange;
+ }
